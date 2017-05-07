@@ -1,7 +1,7 @@
 {
   "name": "prompt-answer",
   "description": "Utility for answering prompts. Useful for unit tests, or when answer values are known in advance.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/enquirer/prompt-answer",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "enquirer/prompt-answer",
