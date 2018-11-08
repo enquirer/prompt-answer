@@ -1,12 +1,12 @@
 {
   "name": "prompt-answer",
   "description": "Utility for answering prompts. Useful for unit tests, or when answer values are known in advance.",
-  "version": "1.0.2",
-  "homepage": "https://github.com/enquirer/prompt-answer",
+  "version": "1.0.3",
+  "homepage": "https://github.com/enquirer/enquirer",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
-  "repository": "enquirer/prompt-answer",
+  "repository": "enquirer/enquirer",
   "bugs": {
-    "url": "https://github.com/enquirer/prompt-answer/issues"
+    "url": "https://github.com/enquirer/enquirer/issues"
   },
   "license": "MIT",
   "files": [
